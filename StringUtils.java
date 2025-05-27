@@ -1,1 +1,1 @@
-Hello his file containes string utils
+Hello Guys, I am String Utills
